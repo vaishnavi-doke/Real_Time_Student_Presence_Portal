@@ -1,4 +1,4 @@
-# 🎓 Real-Time Student Presence Portal
+#  Real-Time Student Presence Portal
 
 ## 🔹 Description
 
@@ -32,7 +32,7 @@ The Real-Time Student Presence Portal is a full-stack web application designed t
 
 ---
 
-## \ How to Run the Project
+##  How to Run the Project
 
 ### Backend (Spring Boot)
 
